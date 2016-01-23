@@ -2,6 +2,12 @@
  * Globals
  */
 
+
+.img-circle {
+    border-radius: 50%;
+}
+
+
 /* Links */
 a,
 a:focus,
